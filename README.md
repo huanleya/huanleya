@@ -92,16 +92,24 @@
 ### 📊 极客数据分析 (Geek Stats)
 
 <div align="center">
-  <!-- 统计卡片 (暗黑霓虹主题) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=huanleya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <!-- 语言卡片 -->
+  <!-- 核心数据概览面板 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=huanleya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33CAFF" alt="GitHub Stats" width="48%" />
+  
+  <!-- 语言环形/紧凑比例图 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanleya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- 动态活动趋势图 (30天内提交波动) -->
+  <!-- 大佬专属：最长连续编码天数纪录 (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huanleya&theme=tokyonight&hide_border=true&background=0D1117&ring=33CAFF&fire=33CAFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="98%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- 动态活动趋势图 (30天代码提交波动) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huanleya&bg_color=0D1117&color=33CAFF&line=33CAFF&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" width="98%" />
 </div>
 
