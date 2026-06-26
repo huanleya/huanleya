@@ -10,9 +10,16 @@
   </a>
 </div>
 
+<!-- 访客计数器与赞助按钮 -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=huanleya&label=PROFILE%20VIEWS&color=33CAFF&style=for-the-badge" alt="views" />
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy me a coffee"/></a>
+</div>
+
 <br/>
 
-<!-- GitHub 奖杯展示 (会根据你的贡献度自动升级) -->
+<!-- GitHub 奖杯展示 -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=huanleya&theme=radical&no-frame=true&row=1&margin-w=15" alt="huanleya trophies" />
@@ -25,26 +32,60 @@
 
 ### 🚀 关于我 (About Me)
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <ul>
-        <li>🔭 <b>当前重心:</b> 完善 <a href="https://github.com/huanleya/HuanleWeapons">HuanleWeapons</a> 模组架构与拓展更多玩法。</li>
-        <li>🌱 <b>探索领域:</b> 正在深入学习 Node.js 后端技术与系统架构。</li>
-        <li>🎯 <b>近期目标:</b> 打造更多高质的开源项目，掌握一门新的底层语言。</li>
-        <li>💡 <b>我的信条:</b> "Talk is cheap. Show me the code."</li>
-        <li>📫 <b>联系方式:</b> 欢迎通过 <a href="https://x.com/huanleya222019">X (Twitter)</a> 找我交流！</li>
-      </ul>
-    </td>
-    <td valign="center" width="40%" align="center">
-      <b>✨ 我的技术栈✨</b><br/><br/>
-      <!-- 高级技能墙图标，可随意增删链接中的英文单词 -->
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,react,git,github,vscode,idea,mysql,docker&perline=4&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+- 🔭 **当前重心:** 架构设计与全栈开发，同时推进开源模组更新。
+- 🌱 **探索领域:** 深入底层系统，拥抱人工智能，紧跟前沿技术栈演进。
+- 🎯 **近期目标:** 参与核心开源社区贡献，打造令人惊艳的软件作品。
+- 💡 **我的信条:** *"Talk is cheap. Show me the code."*
+- 📫 **联系方式:** 欢迎通过 [X (Twitter)](https://x.com/huanleya222019) 找我交流！
+
+---
+
+### 📌 核心项目 (Featured Project)
+
+<div align="center">
+  <!-- 这里使用了和下方统计卡片一致的霓虹黑主题，让你的核心项目像名片一样展示 -->
+  <a href="https://github.com/huanleya/HuanleWeapons">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huanleya&repo=HuanleWeapons&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HuanleWeapons Card" />
+  </a>
+</div>
+
+<!-- 这里利用了折叠面板功能，点击即可展开查看更多 -->
+<details>
+  <summary><b>✨ 点击展开：查看我的其他趣味项目</b></summary>
+  <br/>
+  
+  *   ☁️ **[cloud-mail](https://github.com/huanleya/cloud-mail)** - 基于 JavaScript 的云端邮件服务探索。
+  *   🔧 **[nodejs-huanle](https://github.com/huanleya/nodejs-huanle)** - HTML 与 Node.js 结合的实践项目。
+  *   *还有更多有趣的创意正在本地开发中，敬请期待...*
+</details>
+
+---
+
+### 💻 全栈技术雷达 (Tech Stack)
+
+<div align="center">
+
+**🌐 前端开发 (Frontend)**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,tailwind,bootstrap,vite,webpack&theme=dark" />
+
+<br/>
+
+**⚙️ 后端开发 (Backend)**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp,cs,go,rust,php,spring,express,django&theme=dark" />
+
+<br/>
+
+**🗄️ 数据库 (Database)**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" />
+
+<br/>
+
+**🛠️ 架构、部署与工具 (DevOps & Tools)**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,nginx,aws,azure,gcp,vscode,idea,postman,figma&theme=dark" />
+
+</div>
+
+<br/>
 
 ---
 
