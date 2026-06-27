@@ -19,16 +19,14 @@
 
 <br/>
 
-<!-- 100% 稳定的动态数据徽章 -->
+<!-- 动态数据徽章 -->
 <div align="center">
   <img src="https://img.shields.io/github/followers/huanleya?style=for-the-badge&color=33CAFF&labelColor=0D1117&logo=github" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/huanleya?affiliations=OWNER&style=for-the-badge&color=33CAFF&labelColor=0D1117&logo=github" alt="Stars" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Repos-8-33CAFF?style=for-the-badge&labelColor=0D1117&logo=github" alt="Repos" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stars-33-33CAFF?style=for-the-badge&labelColor=0D1117&logo=starship" alt="Total Stars" />
 </div>
+
+<br/>
 
 ---
 
@@ -226,12 +224,40 @@
 
 ---
 
+### 🐍 贡献图贪吃蛇 (Contribution Snake)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huanleya/huanleya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huanleya/huanleya/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/huanleya/huanleya/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### 🏙️ 3D 贡献天际线 (3D Contribution Skyline)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/huanleya/huanleya/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contrib" />
+</div>
+
+---
+
 ### 🌐 关注我 (Connect with me)
 
 <div align="center">
   <a href="https://x.com/huanleya222019" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://youtube.com/@huanleya" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://linkedin.com/in/weipeng-chen-532048417" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+---
+
+### 🃏 随机编程笑话 (Random Dev Joke)
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2333CAFF&aColor=%23FFFFFF" alt="Jokes Card" />
 </div>
 
 ---
