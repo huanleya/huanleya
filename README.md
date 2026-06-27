@@ -19,11 +19,9 @@
 
 <br/>
 
-<!-- GitHub 奖杯展示 -->
+<!-- Profile Summary Card（替代不稳定的 Trophy） -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=huanleya&theme=radical&no-frame=true&row=1&margin-w=15" alt="huanleya trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huanleya&theme=tokyonight" width="98%" alt="Profile Details" />
 </div>
 
 <br/>
@@ -220,6 +218,16 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huanleya&bg_color=0D1117&color=33CAFF&line=33CAFF&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" width="98%" />
+</div>
+
+---
+
+### 🌐 关注我 (Connect with me)
+
+<div align="center">
+  <a href="https://x.com/huanleya222019" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://youtube.com/@huanleya" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://linkedin.com/in/weipeng-chen-532048417" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ---
