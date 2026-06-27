@@ -226,6 +226,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/huanleya/huanleya/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
+</div>
+
 ### 🐍 贡献图贪吃蛇 (Contribution Snake)
 
 <div align="center">
