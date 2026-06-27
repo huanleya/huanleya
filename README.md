@@ -43,17 +43,15 @@
 ### 📌 核心项目 (Featured Project)
 
 <div align="center">
-  <!-- 这里使用了和下方统计卡片一致的霓虹黑主题，让你的核心项目像名片一样展示 -->
   <a href="https://github.com/huanleya/HuanleWeapons">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huanleya&repo=HuanleWeapons&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HuanleWeapons Card" />
   </a>
 </div>
 
-<!-- 这里利用了折叠面板功能，点击即可展开查看更多 -->
 <details>
   <summary><b>✨ 点击展开：查看我的其他趣味项目</b></summary>
   <br/>
-  
+
   *   ☁️ **[cloud-mail](https://github.com/huanleya/cloud-mail)** - 基于 JavaScript 的云端邮件服务探索。
   *   🔧 **[nodejs-huanle](https://github.com/huanleya/nodejs-huanle)** - HTML 与 Node.js 结合的实践项目。
   *   *还有更多有趣的创意正在本地开发中，敬请期待...*
@@ -65,23 +63,61 @@
 
 <div align="center">
 
-**🌐 前端开发 (Frontend)**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,tailwind,bootstrap,vite,webpack&theme=dark" />
+**🌐 前端开发 (Frontend)**<br/><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript"/></a>&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/></a>&nbsp;
+<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="Vue"/></a>&nbsp;
+<a href="https://angular.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Angular"/></a>&nbsp;
+<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/></a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS"/></a>&nbsp;
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap"/></a>&nbsp;
+<a href="https://vite.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite"/></a>&nbsp;
+<a href="https://webpack.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=webpack&theme=dark" width="48" height="48" alt="Webpack"/></a>
 
-<br/>
+<br/><br/>
 
-**⚙️ 后端开发 (Backend)**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp,cs,go,rust,php,spring,express,django&theme=dark" />
+**⚙️ 后端开发 (Backend)**<br/><br/>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/></a>&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/></a>&nbsp;
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/></a>&nbsp;
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/></a>&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#"/></a>&nbsp;
+<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" height="48" alt="Go"/></a>&nbsp;
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" height="48" alt="Rust"/></a>&nbsp;
+<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP"/></a>&nbsp;
+<a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring"/></a>&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express"/></a>&nbsp;
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django"/></a>
 
-<br/>
+<br/><br/>
 
-**🗄️ 数据库 (Database)**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" />
+**🗄️ 数据库 (Database)**<br/><br/>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL"/></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/></a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/></a>&nbsp;
+<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/></a>&nbsp;
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite"/></a>
 
-<br/>
+<br/><br/>
 
-**🛠️ 架构、部署与工具 (DevOps & Tools)**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,nginx,aws,azure,gcp,vscode,idea,postman,figma&theme=dark" />
+**🛠️ 架构、部署与工具 (DevOps & Tools)**<br/><br/>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/></a>&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/></a>&nbsp;
+<a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="48" height="48" alt="GitLab"/></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/></a>&nbsp;
+<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48" alt="Kubernetes"/></a>&nbsp;
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/></a>&nbsp;
+<a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" height="48" alt="Nginx"/></a>&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/></a>&nbsp;
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure"/></a>&nbsp;
+<a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/></a>&nbsp;
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ IDEA"/></a>&nbsp;
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman"/></a>&nbsp;
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma"/></a>
 
 </div>
 
@@ -92,24 +128,19 @@
 ### 📊 极客数据分析 (Geek Stats)
 
 <div align="center">
-  <!-- 核心数据概览面板 -->
   <img src="https://github-readme-stats.vercel.app/api?username=huanleya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33CAFF" alt="GitHub Stats" width="48%" />
-  
-  <!-- 语言环形/紧凑比例图 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanleya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- 大佬专属：最长连续编码天数纪录 (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huanleya&theme=tokyonight&hide_border=true&background=0D1117&ring=33CAFF&fire=33CAFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="98%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- 动态活动趋势图 (30天代码提交波动) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huanleya&bg_color=0D1117&color=33CAFF&line=33CAFF&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" width="98%" />
 </div>
 
@@ -118,7 +149,6 @@
 ### ☕ 每日名言 (Quote of the Day)
 
 <div align="center">
-  <!-- 每次刷新都会变的编程格言 -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
