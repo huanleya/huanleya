@@ -19,12 +19,16 @@
 
 <br/>
 
-<!-- Profile Summary Card（替代不稳定的 Trophy） -->
+<!-- 100% 稳定的动态数据徽章 -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huanleya&theme=tokyonight" width="98%" alt="Profile Details" />
+  <img src="https://img.shields.io/github/followers/huanleya?style=for-the-badge&color=33CAFF&labelColor=0D1117&logo=github" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/huanleya?affiliations=OWNER&style=for-the-badge&color=33CAFF&labelColor=0D1117&logo=github" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repos-8-33CAFF?style=for-the-badge&labelColor=0D1117&logo=github" alt="Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stars-33-33CAFF?style=for-the-badge&labelColor=0D1117&logo=starship" alt="Total Stars" />
 </div>
-
-<br/>
 
 ---
 
