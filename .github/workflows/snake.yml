@@ -23,8 +23,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+      - name: Move & Commit
+        run: |
+          mkdir -p snake-output
+          cp dist/* snake-output/
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add snake-output/
+          git commit -m "chore: update snake" || exit 0
+          git push
