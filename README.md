@@ -241,7 +241,7 @@
 ### 🏙️ 3D 贡献天际线 (3D Contribution Skyline)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/huanleya/huanleya/output-3d/profile-night-rainbow.svg" width="100%" alt="3D Contrib" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contrib" />
 </div>
 
 ---
