@@ -63,47 +63,85 @@
 
 <div align="center">
 
-**🌐 前端开发 (Frontend)**<br/><br/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3"/></a>&nbsp;
+**💻 编程语言 (Languages)**<br/><br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/></a>&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript"/></a>&nbsp;
-<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/></a>&nbsp;
-<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="Vue"/></a>&nbsp;
-<a href="https://angular.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Angular"/></a>&nbsp;
-<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/></a>&nbsp;
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS"/></a>&nbsp;
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap"/></a>&nbsp;
-<a href="https://vite.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite"/></a>&nbsp;
-<a href="https://webpack.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=webpack&theme=dark" width="48" height="48" alt="Webpack"/></a>
-
-<br/><br/>
-
-**⚙️ 后端开发 (Backend)**<br/><br/>
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/></a>&nbsp;
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/></a>&nbsp;
 <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/></a>&nbsp;
 <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/></a>&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#"/></a>&nbsp;
 <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" height="48" alt="Go"/></a>&nbsp;
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" height="48" alt="Rust"/></a>&nbsp;
+<a href="https://www.ruby-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ruby&theme=dark" width="48" height="48" alt="Ruby"/></a>&nbsp;
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="48" height="48" alt="Kotlin"/></a>&nbsp;
+<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://skillicons.dev/icons?i=swift&theme=dark" width="48" height="48" alt="Swift"/></a>&nbsp;
+<a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48" height="48" alt="Dart"/></a>&nbsp;
 <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP"/></a>&nbsp;
-<a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring"/></a>&nbsp;
-<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express"/></a>&nbsp;
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django"/></a>
+<a href="https://www.scala-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scala&theme=dark" width="48" height="48" alt="Scala"/></a>
 
 <br/><br/>
 
-**🗄️ 数据库 (Database)**<br/><br/>
+**🌐 前端开发 (Frontend)**<br/><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3"/></a>&nbsp;
+<a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass&theme=dark" width="48" height="48" alt="Sass"/></a>&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/></a>&nbsp;
+<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="Vue"/></a>&nbsp;
+<a href="https://angular.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Angular"/></a>&nbsp;
+<a href="https://svelte.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=svelte&theme=dark" width="48" height="48" alt="Svelte"/></a>&nbsp;
+<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/></a>&nbsp;
+<a href="https://nuxt.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" width="48" height="48" alt="Nuxt.js"/></a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS"/></a>&nbsp;
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap"/></a>&nbsp;
+<a href="https://mui.com/" target="_blank"><img src="https://skillicons.dev/icons?i=materialui&theme=dark" width="48" height="48" alt="Material UI"/></a>&nbsp;
+<a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery&theme=dark" width="48" height="48" alt="jQuery"/></a>&nbsp;
+<a href="https://vite.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite"/></a>&nbsp;
+<a href="https://webpack.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=webpack&theme=dark" width="48" height="48" alt="Webpack"/></a>
+
+<br/><br/>
+
+**⚙️ 后端框架 (Backend Frameworks)**<br/><br/>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/></a>&nbsp;
+<a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring"/></a>&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express"/></a>&nbsp;
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django"/></a>&nbsp;
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask"/></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/></a>&nbsp;
+<a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="48" height="48" alt="NestJS"/></a>&nbsp;
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" alt=".NET"/></a>&nbsp;
+<a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="Laravel"/></a>&nbsp;
+<a href="https://graphql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL"/></a>
+
+<br/><br/>
+
+**📱 移动与跨平台 (Mobile & Cross-Platform)**<br/><br/>
+<a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter"/></a>&nbsp;
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" height="48" alt="Android Studio"/></a>&nbsp;
+<a href="https://www.electronjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=electron&theme=dark" width="48" height="48" alt="Electron"/></a>&nbsp;
+<a href="https://tauri.app/" target="_blank"><img src="https://skillicons.dev/icons?i=tauri&theme=dark" width="48" height="48" alt="Tauri"/></a>
+
+<br/><br/>
+
+**🗄️ 数据库与存储 (Database & Storage)**<br/><br/>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL"/></a>&nbsp;
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/></a>&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/></a>&nbsp;
 <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/></a>&nbsp;
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite"/></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite"/></a>&nbsp;
+<a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase"/></a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase"/></a>&nbsp;
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://skillicons.dev/icons?i=dynamodb&theme=dark" width="48" height="48" alt="DynamoDB"/></a>
 
 <br/><br/>
 
-**🛠️ 架构、部署与工具 (DevOps & Tools)**<br/><br/>
+**🤖 人工智能 (AI & Data Science)**<br/><br/>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/></a>&nbsp;
+<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/></a>&nbsp;
+<a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV"/></a>
+
+<br/><br/>
+
+**🛠️ DevOps 与云服务 (DevOps & Cloud)**<br/><br/>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/></a>&nbsp;
 <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/></a>&nbsp;
 <a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="48" height="48" alt="GitLab"/></a>&nbsp;
@@ -114,15 +152,30 @@
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/></a>&nbsp;
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure"/></a>&nbsp;
 <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/></a>&nbsp;
+<a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48" height="48" alt="Terraform"/></a>&nbsp;
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="48" height="48" alt="Jenkins"/></a>&nbsp;
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions"/></a>&nbsp;
+<a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel"/></a>&nbsp;
+<a href="https://www.netlify.com/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" height="48" alt="Netlify"/></a>&nbsp;
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" height="48" alt="Cloudflare"/></a>
+
+<br/><br/>
+
+**🎨 工具与设计 (Tools & Design)**<br/><br/>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/></a>&nbsp;
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ IDEA"/></a>&nbsp;
+<a href="https://www.vim.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vim&theme=dark" width="48" height="48" alt="Vim"/></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash"/></a>&nbsp;
 <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman"/></a>&nbsp;
-<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma"/></a>
+<a href="https://grafana.com/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" height="48" alt="Grafana"/></a>&nbsp;
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma"/></a>&nbsp;
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="Photoshop"/></a>&nbsp;
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48" height="48" alt="Illustrator"/></a>&nbsp;
+<a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender&theme=dark" width="48" height="48" alt="Blender"/></a>
 
 </div>
 
 <br/>
-
 ---
 
 ### 📊 极客数据分析 (Geek Stats)
