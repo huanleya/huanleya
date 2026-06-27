@@ -1,0 +1,35 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: huanleya
+          # 基础配置
+          template: classic
+          base: "" # 去掉基础信息，我们只想要下面的插件
+          config_timezone: Asia/Shanghai
+          config_theme: tokyonight # 匹配你的暗黑主题
+          
+          # 3D 日历插件
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # 代码习惯插件
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
