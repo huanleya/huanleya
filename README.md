@@ -42,25 +42,6 @@
 
 ---
 
-### 📌 核心项目 (Featured Project)
-
-<div align="center">
-  <a href="https://github.com/huanleya/HuanleWeapons">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huanleya&repo=HuanleWeapons&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HuanleWeapons Card" />
-  </a>
-</div>
-
-<details>
-  <summary><b>✨ 点击展开：查看我的其他趣味项目</b></summary>
-  <br/>
-
-  *   ☁️ **[cloud-mail](https://github.com/huanleya/cloud-mail)** - 基于 JavaScript 的云端邮件服务探索。
-  *   🔧 **[nodejs-huanle](https://github.com/huanleya/nodejs-huanle)** - HTML 与 Node.js 结合的实践项目。
-  *   *还有更多有趣的创意正在本地开发中，敬请期待...*
-</details>
-
----
-
 ### 💻 全栈技术雷达 (Tech Stack)
 
 <div align="center">
