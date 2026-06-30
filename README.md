@@ -97,19 +97,6 @@
 
 ---
 
-### 🃏 随机编程笑话 (Random Dev Joke)
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2333CAFF&aColor=%23FFFFFF" alt="Jokes Card" />
-</div>
-
----
-
-### ☕ 每日名言 (Quote of the Day)
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
 
 <!-- 底部渐变收尾 -->
 <div align="center">
