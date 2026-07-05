@@ -43,8 +43,6 @@
 ---
 
 
-### 📊 极客数据分析 (Geek Stats)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huanleya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33CAFF" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanleya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
@@ -68,7 +66,6 @@
   <img src="https://raw.githubusercontent.com/huanleya/huanleya/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </div>
 
-### 🐍 贡献图贪吃蛇 (Contribution Snake)
 
 <div align="center">
   <picture>
@@ -80,7 +77,6 @@
 
 ---
 
-### 🏙️ 3D 贡献天际线 (3D Contribution Skyline)
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contrib" />
