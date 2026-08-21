@@ -30,35 +30,7 @@
   <img src="https://img.shields.io/badge/Stars-33-33CAFF?style=for-the-badge&labelColor=0D1117&logo=starship" alt="Total Stars" />
 </div>
 
----
 
-### 🚀 关于我 (About Me)
-
-- 🔭 **当前重心:** 架构设计与全栈开发，同时推进开源模组更新。
-- 🌱 **探索领域:** 深入底层系统，拥抱人工智能，紧跟前沿技术栈演进。
-- 🎯 **近期目标:** 参与核心开源社区贡献，打造令人惊艳的软件作品。
-- 💡 **我的信条:** *"Talk is cheap. Show me the code."*
-- 📫 **联系方式:** 欢迎通过 [X (Twitter)](https://x.com/huanleya222019) 找我交流！
-
----
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huanleya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33CAFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanleya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huanleya&theme=tokyonight&hide_border=true&background=0D1117&ring=33CAFF&fire=33CAFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="98%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huanleya&bg_color=0D1117&color=33CAFF&line=33CAFF&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" width="98%" />
-</div>
 
 ---
 
